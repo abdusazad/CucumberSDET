@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="13.065118">
+<testcase classname="Login test feature" name="Login test scenario" time="13.065118">
+<system-out><![CDATA[Given Browser initialize to open............................................passed
+When Enter the App url......................................................passed
+When Click on login button from top menu....................................passed
+When Enter the username.....................................................passed
+When Enter the Passowrd.....................................................passed
+When Click on Sign In button below Passowrd field...........................passed
+When Verify to Get title of the page to make sure user login successfully...passed
+Then Verify the Welcome to your account msg from the main page..............passed
+Then Closed the browser.....................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
